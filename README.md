@@ -3,4 +3,4 @@ A prototype 2D mobile game uploaded as WebGL game
 
 To play goto: https://tronketh.github.io/Sticky-Balls/index.html
 
-Looking for people to contribute
+Looking for people to contribute, contact at my email: sivakethan.suddapalli@gmail.com
