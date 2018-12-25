@@ -6,6 +6,6 @@
 goto: https://tronketh.github.io/Sticky-Balls/index.html
 
 # Created By:
-- Adrian ()
-- Mate Moldovan (mdvnmate)
-- Sivakethan Suddapalli(tronketh)
+- Adrian (): Designer
+- Mate Moldovan (mdvnmate) : Music and Sound artist
+- Sivakethan Suddapalli(tronketh) : Programmer
