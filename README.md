@@ -8,4 +8,4 @@ goto: https://tronketh.github.io/Sticky-Balls/index.html
 # Created By:
 - Adrian ()
 - Mate Moldovan (mdvnmate)
-- Sivakethan Suddapalli(Tronketh)
+- Sivakethan Suddapalli(tronketh)
