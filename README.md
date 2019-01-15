@@ -6,6 +6,8 @@
 goto: https://tronketh.github.io/Sticky-Balls/index.html
 
 # Created By:
-- Adrian (): Designer
+- Adrian (Swag Master Watbadrian): Designer
 - Mate Moldovan (mdvnmate) : Music and Sound artist
 - Sivakethan Suddapalli(tronketh) : Programmer
+- Jin Kazuma(dejin1) : Programmer
+- Hannu(Lord Hannu) : Artist
